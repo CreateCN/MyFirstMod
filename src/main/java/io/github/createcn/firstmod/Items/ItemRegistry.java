@@ -47,6 +47,5 @@ class CreativeModeTabEvent extends Event {
             return tab; // 模拟获取当前Tab
         }
 
-        // 其他必要的方法
     }
 }
